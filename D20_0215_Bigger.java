@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class D20_Bigger{
+class D20_0215_Bigger{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         while (true){
